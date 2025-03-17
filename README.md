@@ -13,7 +13,7 @@ A **simple, secure, and customizable** password generator built using **HTML, CS
 🚀 Live Demo
 ------------
 
-🔗 [**Check it out here**]](https://swagat27.github.io/password-generator/)
+🔗 [**Check it out here**](https://swagat27.github.io/password-generator/)
 
 ## 📂 Project Structure  
 ```plaintext
@@ -41,7 +41,7 @@ Follow these steps to download and run the project locally:
 ### 1️⃣ **Clone the repository**
 
 ``` 
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/swagat27/password-generator.git
 ```
 
 Or download the ZIP file from **GitHub** and extract it.
